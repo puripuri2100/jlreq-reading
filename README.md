@@ -8,13 +8,13 @@
 
 飛び込み参加歓迎です！
 
-範囲は1節ずつ進めていく感じでのんびりとやっていきたいと思います。
+範囲は1節ずつ進めていく感じでのんびりとやっていきたいと思います（時間に余裕があったら2節3節進めてしまうかも）。
 
 基本的に担当する人が事前に資料を読み込み、それに関する情報等を集めて当日みんなの前で解説していくという流れでやりたいと思っています。
 
 # 次回の予定
 
-- 場所：中学教員室内のミーティングルーム（予定）
+- 場所：中学教員室内のミーティングルーム（取れなかったら中学3年のどこかの教室）
 - 日時：未定（9/24以降の平日放課後）
-- 範囲：2.1「[日本語組版に使用するもｊ時jと配置の原則](https://www.w3.org/TR/jlreq/ja/#characters_and_the_principles_of_setting_them_for_japanese_composition)」
+- 範囲：2.1「[日本語組版に使用する文字と配置の原則](https://www.w3.org/TR/jlreq/ja/#characters_and_the_principles_of_setting_them_for_japanese_composition)」
 - 担当：@puripuri2100
