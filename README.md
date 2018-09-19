@@ -14,7 +14,7 @@
 
 # 次回の予定
 
-- 日時：2018/9/12　**午後3時から**
+- 日時：2018/10/1　**午後2時半から**
 - 場所：中学教員室内のミーティングルーム
-- 範囲：2.1「[日本語組版に使用する文字と配置の原則](https://www.w3.org/TR/jlreq/ja/#characters_and_the_principles_of_setting_them_for_japanese_composition)」
+- 範囲：2.2「[日本語文書の基本となる組体裁](https://www.w3.org/TR/jlreq/ja/#page_formats_for_japanese_documents)」
 - 担当：@puripuri2100
